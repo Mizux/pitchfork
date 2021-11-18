@@ -788,6 +788,7 @@ other than the target platform. This has several big implications, including
 Here few references:
 
 * [vector-of-bool/pitchfork](https://github.com/vector-of-bool/pitchfork)
+* [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 * [LLVM CMake Primer](https://llvm.org/docs/CMakePrimer.html)
 * [cliutils/modern-cmake](https://cliutils.gitlab.io/modern-cmake/)
 * [CGold: The Hitchhiker’s Guide to the CMake](https://cgold.readthedocs.io/en/latest/)
