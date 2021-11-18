@@ -787,10 +787,11 @@ other than the target platform. This has several big implications, including
 
 Here few references:
 
-* https://github.com/vector-of-bool/pitchfork
-* https://llvm.org/docs/CMakePrimer.html
-* https://cliutils.gitlab.io/modern-cmake/
-* https://cgold.readthedocs.io/en/latest/
+* [vector-of-bool/pitchfork](https://github.com/vector-of-bool/pitchfork)
+* [LLVM CMake Primer](https://llvm.org/docs/CMakePrimer.html)
+* [cliutils/modern-cmake](https://cliutils.gitlab.io/modern-cmake/)
+* [CGold: The Hitchhiker’s Guide to the CMake](https://cgold.readthedocs.io/en/latest/)
 
 ## License
+
 Apache 2. See the LICENSE file for details.
